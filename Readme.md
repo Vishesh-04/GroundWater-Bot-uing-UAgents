@@ -59,7 +59,7 @@ Project Demo Video Link -->
 
 ## How to Run the Project
 ### Step 1: Create a Account on DeltaV
-### Step 2: Search for Tourist Temperature Guide
+### Step 2: Search for Ground Water
 
 ## Collabration
 This project is created with support of Fetch.ai Innovation Lab, Meerut Institute of Engineering and Technology, Meerut, Uttar Pradesh, India.
