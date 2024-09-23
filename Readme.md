@@ -54,12 +54,13 @@ Historical Groundwater Data: Provide users with trends over previous years to as
 Predictive Analytics: Integrate machine learning models to predict future groundwater levels based on current usage.
 Web Interface: Develop a web interface where users can visually explore groundwater data.
 Localization: Support for multiple languages to cater to a global audience.
-<!-- ## Project Implementation Video
-Project Demo Video Link -->
+## Project Implementation Video
+[Demo Video Link](https://drive.google.com/file/d/1ipdPG3cfjkF-dhbVCLvWBjJLwwEfKIv2/view?usp=sharing)
 
 ## How to Run the Project
 ### Step 1: Create a Account on DeltaV
 ### Step 2: Search for Ground Water
+### Step 3: Follow the Demo Video
 
 ## Collabration
 This project is created with support of Fetch.ai Innovation Lab, Meerut Institute of Engineering and Technology, Meerut, Uttar Pradesh, India.
